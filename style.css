@@ -1,0 +1,8 @@
+.navbar {
+    color: grey;
+}
+
+.navbar :hover {
+    /* border-bottom: 1px green solid; */
+    color: red;
+}
