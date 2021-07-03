@@ -34,3 +34,62 @@
     /* background-color: green; */
     color: white;
 }
+
+.text {
+    font-size: 2rem;
+    margin-top: 5%;
+    /* border-bottom: yellowgreen 2px solid; */
+}
+
+.restauranticon {
+    height: auto;
+    width: 50%;
+}
+
+.part3 {
+    background-color: lightgrey;
+}
+
+.menu {
+    text-align: center;
+}
+
+.inline a {
+    /* display: inline; */
+    /* text-align: center; */
+    padding: 5%;
+    margin: 5%;
+}
+
+.gallery {
+    text-align: center;
+}
+
+.res-btn {
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+.part6 {
+    background-color: lightgrey;
+}
+
+.gal-head {
+    text-align: center;
+    font-size: 3rem;
+    color: #fcb500;
+}
+
+.card-text {
+    font-size: 2rem;
+    padding: 2%;
+}
+
+.part8 {
+    background-color: lightgrey;
+}
+
+.contact {
+    text-align: center;
+    font-size: 2rem;
+}

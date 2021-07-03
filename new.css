@@ -1,0 +1,24 @@
+#Education {
+    background-color: white;
+    color: tomato;
+    text-align: center;
+    padding-top: 60px;
+}
+
+#Education .carousel-item {
+    padding: 60px 280px 80px;
+    line-height: 2;
+}
+
+#Education img {
+    background-color: tomato;
+    width: 120px;
+    height: 120px;
+    color: #fff;
+    border-radius: 100%;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    background-color: rgb(189, 182, 182);
+}
